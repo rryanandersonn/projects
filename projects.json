@@ -1,0 +1,125 @@
+{
+  "site": {
+    "name": "Ryan Anderson",
+    "tagline": "Electrical Engineering",
+    "avatar": "",
+    "footer": "© Ryan Anderson",
+    "nav": [
+      {
+        "label": "Projects",
+        "url": "#projects"
+      },
+      {
+        "label": "About",
+        "url": "#about"
+      },
+      {
+        "label": "Contact",
+        "url": "#contact"
+      }
+    ],
+    "socials": [
+      {
+        "label": "Email",
+        "url": "mailto:you@example.com"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/rryanandersonn"
+      }
+    ],
+    "sections": [
+      {
+        "type": "hero",
+        "anchor": "top",
+        "enabled": true,
+        "kicker": "Electrical Engineering · University of Vermont",
+        "title": "Ryan Anderson",
+        "body": "Graduate student working on the reliability of high-voltage bidirectional GaN devices for the future of automotive, space, and AI",
+        "image": "",
+        "imageShape": "rounded",
+        "layout": "split",
+        "background": "gradient",
+        "bgImage": "",
+        "buttons": [
+          {
+            "label": "See my projects",
+            "url": "#projects"
+          },
+          {
+            "label": "Get in touch",
+            "url": "#contact"
+          }
+        ]
+      },
+      {
+        "type": "projects",
+        "anchor": "projects",
+        "enabled": true,
+        "title": "Projects",
+        "subtitle": "Detailed write-ups of research, hardware and software work.",
+        "layout": "grid",
+        "showFilters": true,
+        "tag": "",
+        "limit": 0
+      },
+      {
+        "type": "markdown",
+        "anchor": "about",
+        "enabled": true,
+        "title": "About",
+        "width": "narrow",
+        "style": "plain",
+        "body": "Write a few paragraphs about yourself here. Markdown works: **bold**, lists, images, equations like $V_{T0}$, and more."
+      },
+      {
+        "type": "links",
+        "anchor": "contact",
+        "enabled": true,
+        "title": "Contact",
+        "body": "The best ways to reach me:",
+        "style": "cards",
+        "align": "left"
+      }
+    ],
+    "theme": {
+      "mode": "dark",
+      "toggle": true,
+      "light": {
+        "bg": "#eaedf6",
+        "surface": "#d6c560",
+        "text": "#2e2f87",
+        "muted": "#5b5da4",
+        "line": "#4361ea",
+        "accent": "#f2727f",
+        "accentText": "#ffffff"
+      },
+      "dark": {
+        "bg": "#2e2f87",
+        "surface": "#d6c560",
+        "text": "#ffffff",
+        "muted": "#bcc2e9",
+        "line": "#fefeff",
+        "accent": "#f2727f",
+        "accentText": "#2a2a2a"
+      },
+      "fontHeading": "Sora",
+      "fontBody": "Inter",
+      "fontMono": "JetBrains Mono",
+      "baseSize": 16,
+      "headingWeight": 700,
+      "tracking": -3,
+      "radius": 16,
+      "width": 1080,
+      "spacing": 88,
+      "cardStyle": "glass",
+      "cardRatio": "16 / 9",
+      "customCSS": ""
+    }
+  },
+  "projects": []
+}
