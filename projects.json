@@ -56,10 +56,20 @@
         "type": "markdown",
         "anchor": "about",
         "enabled": true,
-        "title": "About",
+        "title": "About me",
         "width": "narrow",
         "style": "plain",
-        "body": "Write a few paragraphs about yourself here. Markdown works: **bold**, lists, images, equations like $V_{T0}$, and more."
+        "align": "left",
+        "body": "Graduate student at the University of Vermont studying Electrical Engineering. I grew an affinity towards electronics which drew me into the field that I am in now, complimented by my curiosity about how the universe worked on the macro and micro scale. I now work on the analysis of power transistors smaller than specks of dust with the goal of optimizing them for many industries, including space exploration.\n\nOutside of my academic life, I play and write music in my free time and love to ski and bike. On this website, I hope to include my academic achievements as well as my personal life. \n\n**UVM Senior Spotlight:**\n[www.uvm.edu](https://www.uvm.edu/cems/news/senior-spotlight-ryan-anderson)"
+      },
+      {
+        "type": "markdown",
+        "anchor": "motivation",
+        "enabled": true,
+        "title": "Motivation",
+        "width": "narrow",
+        "style": "plain",
+        "body": "Currently, I am studying the reliability of high voltage GaN bidirectional HEMTs using devices which are already manufactured. I am exploring topics like stress effects of hot carrier injection and time dependent dielectric breakdown. The exploration of this topic is directly relevant to many applications and industries, such as: \n\n- Automotive: Near-zero failure rates, meaning reliability is imperative.\n- Data center and AI server PSUs: Reliable bidirectional switches mitigate thermal stress and improve efficiency.\n- AC-AC converters: Single switch blocking both polarities every cycle replaces two devices. Can only be done once reliability is studied.\n- Space and lunar power (Artemis): In space, repairs are not possible, temperature range is extreme and less parts means less weight goes to space. Studying the reliability yields space programs with knowledge on how best to implement these devices.\n- Consumer batteries and electronics: Compact bidirectional switches cuts losses and saves space on board in phones, laptops and tools.\n\nI am aim to complete and defend my thesis by December 2027 on my study of the reliability of GaN bidirectional HEMTs."
       },
       {
         "type": "markdown",
