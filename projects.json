@@ -21,7 +21,7 @@
     "socials": [
       {
         "label": "Email",
-        "url": "mailto:rjander22@outlook.com"
+        "url": "mailto:rander22@uvm.edu"
       },
       {
         "label": "LinkedIn",
@@ -53,6 +53,25 @@
         ]
       },
       {
+        "type": "markdown",
+        "anchor": "about",
+        "enabled": true,
+        "title": "About",
+        "width": "narrow",
+        "style": "plain",
+        "body": "Write a few paragraphs about yourself here. Markdown works: **bold**, lists, images, equations like $V_{T0}$, and more."
+      },
+      {
+        "type": "markdown",
+        "anchor": "",
+        "enabled": true,
+        "title": "Resume",
+        "width": "narrow",
+        "style": "plain",
+        "align": "left",
+        "body": "\n![Resume page 0001](images/resume-page-0001-mw138c46.webp)\n"
+      },
+      {
         "type": "projects",
         "anchor": "projects",
         "enabled": true,
@@ -62,15 +81,6 @@
         "showFilters": true,
         "tag": "",
         "limit": 0
-      },
-      {
-        "type": "markdown",
-        "anchor": "about",
-        "enabled": true,
-        "title": "About",
-        "width": "narrow",
-        "style": "plain",
-        "body": "Write a few paragraphs about yourself here. Markdown works: **bold**, lists, images, equations like $V_{T0}$, and more."
       },
       {
         "type": "links",
@@ -103,7 +113,7 @@
         "accent": "#f2727f",
         "accentText": "#2a2a2a"
       },
-      "fontHeading": "Space Grotesk",
+      "fontHeading": "IBM Plex Sans",
       "fontBody": "Plus Jakarta Sans",
       "fontMono": "IBM Plex Mono",
       "baseSize": 20,
