@@ -109,16 +109,16 @@
         "bg": "#eaedf6",
         "surface": "#d6c560",
         "text": "#2e2f87",
-        "muted": "#5b5da4",
+        "muted": "#4a4c87",
         "line": "#4361ea",
         "accent": "#f2727f",
-        "accentText": "#ffffff"
+        "accentText": "#813232"
       },
       "dark": {
         "bg": "#2e2f87",
         "surface": "#d6c560",
         "text": "#ffffff",
-        "muted": "#bcc2e9",
+        "muted": "#848bc2",
         "line": "#fefeff",
         "accent": "#f2727f",
         "accentText": "#2a2a2a"
@@ -137,5 +137,25 @@
       "customCSS": ""
     }
   },
-  "projects": []
+  "projects": [
+    {
+      "id": "reliability-of-bidirectional-gan-thesis-topic",
+      "title": "Reliability of Bidirectional GaN (Thesis Topic)",
+      "date": "2026-11",
+      "status": "In Progress",
+      "tags": [
+        "GaN",
+        "Space",
+        "Reliability",
+        "Bidirectional"
+      ],
+      "summary": "Study on the stress effects of hot carrier injection, time dependent dielectric breakdown and gate length in GaN bidirectional switches",
+      "cover": "",
+      "accent": "",
+      "links": [],
+      "body": "## Overview\n\nGaN devices have many properties which excel in areas of radio frequency and power. Specifically with power devices, these devices can operate at very high voltages. When a high voltage is applied to the device, aside from the intended current flow in the 2DEG, there is a strong vertical electric field which can pull hot electrons through the substrate and buffer layers. This hot carrier injection is a phenomenon which accelerates the breakdown of devices.\n\n## How it works\n\n## Results\n\n## What I learned\n",
+      "draft": true,
+      "pinned": false
+    }
+  ]
 }
